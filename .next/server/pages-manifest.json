@@ -1,7 +1,9 @@
 {
+  "/bank": "pages/bank.html",
+  "/": "pages/index.html",
+  "/marketing": "pages/marketing.html",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/marketing": "pages/marketing.js"
+  "/404": "pages/404.html"
 }
